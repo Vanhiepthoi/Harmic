@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiept\\source\\repos\\Harmic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\models\\th2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\models\\th2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\views\\shared\\components\\menutop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\views\\shared\\components\\menutop\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\viewcomponents\\productviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\viewcomponents\\menutopviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\viewcomponents\\menutopviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|c:\\users\\hiept\\source\\repos\\harmic\\harmic\\harmic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02B3F3DF-F004-4280-9AAE-F482A06BA194}|Harmic\\Harmic.csproj|solutionrelative:harmic\\harmic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hiept\\OneDrive\\Hi\u0300nh a\u0309nh\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T09:59:59.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeDocumentMoniker": "Harmic\\ViewComponents\\ProductViewComponent.cs",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\ViewComponents\\ProductViewComponent.cs",
+              "RelativeToolTip": "Harmic\\ViewComponents\\ProductViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:52:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuTopViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\ViewComponents\\MenuTopViewComponent.cs",
+              "RelativeDocumentMoniker": "Harmic\\ViewComponents\\MenuTopViewComponent.cs",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\ViewComponents\\MenuTopViewComponent.cs",
+              "RelativeToolTip": "Harmic\\ViewComponents\\MenuTopViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:24:59.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Program.cs",
+              "RelativeDocumentMoniker": "Harmic\\Program.cs",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Program.cs",
+              "RelativeToolTip": "Harmic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:15:14.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T10:10:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T10:10:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Th2Context.cs",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Models\\Th2Context.cs",
+              "RelativeDocumentMoniker": "Harmic\\Models\\Th2Context.cs",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Models\\Th2Context.cs",
+              "RelativeToolTip": "Harmic\\Models\\Th2Context.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:22:34.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
+              "RelativeDocumentMoniker": "Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
+              "RelativeToolTip": "Harmic\\Views\\Shared\\Components\\MenuTop\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T10:34:10.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hiept\\OneDrive\\Hi\u0300nh a\u0309nh\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Hi\u0300nh a\u0309nh\\index.html",
+              "ToolTip": "C:\\Users\\hiept\\OneDrive\\Hi\u0300nh a\u0309nh\\index.html",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Hi\u0300nh a\u0309nh\\index.html",
+              "ViewState": "AgIAAJcCAAAAAAAAAABRwMkCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T19:43:14.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Harmic.csproj",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Harmic.csproj",
+              "RelativeDocumentMoniker": "Harmic\\Harmic.csproj",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\Harmic.csproj",
+              "RelativeToolTip": "Harmic\\Harmic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T17:27:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\appsettings.json",
+              "RelativeDocumentMoniker": "Harmic\\appsettings.json",
+              "ToolTip": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\appsettings.json",
+              "RelativeToolTip": "Harmic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T17:23:01.103Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
