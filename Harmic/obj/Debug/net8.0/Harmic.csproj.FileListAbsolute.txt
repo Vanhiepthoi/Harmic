@@ -468,3 +468,4 @@ C:\Users\hiept\source\repos\Harmic\Harmic\obj\Debug\net8.0\refint\Harmic.dll
 C:\Users\hiept\source\repos\Harmic\Harmic\obj\Debug\net8.0\Harmic.pdb
 C:\Users\hiept\source\repos\Harmic\Harmic\obj\Debug\net8.0\Harmic.genruntimeconfig.cache
 C:\Users\hiept\source\repos\Harmic\Harmic\obj\Debug\net8.0\ref\Harmic.dll
+C:\Users\hiept\source\repos\Harmic\Harmic\obj\Debug\net8.0\Harmic.sourcelink.json

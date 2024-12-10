@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lxsO36xFsJZKhwH0nB2Qf+irUkLTPTILPMwWMOsbWaM=",
+  "Hash": "wkuQQpt8Icv3xCeRHYSDzaxo69RBD5TOuiwSwTiNAJM=",
   "Source": "Harmic",
   "BasePath": "_content/Harmic",
   "Mode": "Default",
@@ -750,6 +750,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\270x300\\1-9-270x300.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-1-370x315.jpg",
+      "SourceId": "Harmic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\",
+      "BasePath": "_content/Harmic",
+      "RelativePath": "assets/images/370x315/1-1-370x315#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ovfxudwd1",
+      "Integrity": "6ugqtRzJluGm8kzhuB50lGiStFMiuQIFcWh8wJipKtA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\370x315\\1-1-370x315.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-2-370x315.jpg",
+      "SourceId": "Harmic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\",
+      "BasePath": "_content/Harmic",
+      "RelativePath": "assets/images/370x315/1-2-370x315#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6q3gvleqt",
+      "Integrity": "u5xHcfnMGXLY5Sa3oD0Nlkp3QL4RKpGjyV4hX3D0Le4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\370x315\\1-2-370x315.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-3-370x315.jpg",
+      "SourceId": "Harmic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\",
+      "BasePath": "_content/Harmic",
+      "RelativePath": "assets/images/370x315/1-3-370x315#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1l5sdurja3",
+      "Integrity": "ReDLEByAsR9bA6qeOnJrVUwoavPW28RSgDVsG7O/gV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\370x315\\1-3-370x315.jpg"
     },
     {
       "Identity": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\about\\banner\\1-1-1920x598.jpg",
@@ -9210,6 +9273,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-sHFiorNFKatzBiucypP7RiRmAmhqAHQU185dO0Eh9sE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-1-370x315.6ovfxudwd1.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-1-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ugqtRzJluGm8kzhuB50lGiStFMiuQIFcWh8wJipKtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ovfxudwd1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/370x315/1-1-370x315.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ugqtRzJluGm8kzhuB50lGiStFMiuQIFcWh8wJipKtA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-1-370x315.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-1-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ugqtRzJluGm8kzhuB50lGiStFMiuQIFcWh8wJipKtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ugqtRzJluGm8kzhuB50lGiStFMiuQIFcWh8wJipKtA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-2-370x315.d6q3gvleqt.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-2-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u5xHcfnMGXLY5Sa3oD0Nlkp3QL4RKpGjyV4hX3D0Le4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6q3gvleqt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/370x315/1-2-370x315.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u5xHcfnMGXLY5Sa3oD0Nlkp3QL4RKpGjyV4hX3D0Le4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-2-370x315.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-2-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u5xHcfnMGXLY5Sa3oD0Nlkp3QL4RKpGjyV4hX3D0Le4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u5xHcfnMGXLY5Sa3oD0Nlkp3QL4RKpGjyV4hX3D0Le4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-3-370x315.1l5sdurja3.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-3-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReDLEByAsR9bA6qeOnJrVUwoavPW28RSgDVsG7O/gV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l5sdurja3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/370x315/1-3-370x315.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReDLEByAsR9bA6qeOnJrVUwoavPW28RSgDVsG7O/gV8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/370x315/1-3-370x315.jpg",
+      "AssetFile": "C:\\Users\\hiept\\source\\repos\\Harmic\\Harmic\\wwwroot\\assets\\images\\370x315\\1-3-370x315.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReDLEByAsR9bA6qeOnJrVUwoavPW28RSgDVsG7O/gV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Oct 2023 12:24:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReDLEByAsR9bA6qeOnJrVUwoavPW28RSgDVsG7O/gV8="
         }
       ]
     },
